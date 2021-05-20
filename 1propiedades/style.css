@@ -1,0 +1,22 @@
+h1{
+    color: coral;
+    font-size: 100px;
+}
+
+p{
+    color:brown;
+    font-size:20px
+}
+
+#unico{
+    color:cornflowerblue;
+   font-size: 20px;
+}
+
+.verde{
+    color: cornflowerblue;
+    font-size: 20px;
+    background-color: red;
+
+}
+ 

@@ -1,0 +1,35 @@
+body{
+    background-color:aqua;
+background-image: url(paris_fa5c2ffd.jpg);
+border-bottom: bisque;
+}
+
+h1{
+    text-shadow: 3px 2px red;
+    text-align: center;  
+}
+
+h2{
+    text-shadow: 2px 1px tomato;
+  
+}
+
+body{
+    background-color: blue;
+}
+h3{
+    text-shadow:2px 3px yellow;
+  
+}
+
+button{
+border-radius: 30px;
+margin-top: 50px;
+}
+
+p{
+    width: 40%;
+}
+
+
+
